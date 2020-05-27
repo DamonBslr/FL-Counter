@@ -103,5 +103,7 @@ h1 {
 }
 
 iframe {
-	margin: 10%;
+	margin: 5%;
+	width: 90%;
+	height: 50vw;
 }
