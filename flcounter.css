@@ -13,6 +13,7 @@ h1 {
 	text-align: center;
 	font-family: 'DM Mono', monospace;
 	font-size: 4.5vw;
+	margin-top: 5vw;
 
 }
 
@@ -83,4 +84,20 @@ h1 {
 	padding: 1vw;
 }
 
+.insta {
+	margin-top: 60vw;
+	width: 100%;
+	font-family: 'DM Mono', monospace;
+}
 
+.insta h2 {
+	text-align: center;
+}
+
+.insta a {
+	color: black;
+}
+
+.insta i {
+	padding-left: 1vw;
+}
